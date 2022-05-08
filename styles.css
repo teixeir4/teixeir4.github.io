@@ -1,8 +1,13 @@
-#fullname{
+.fullname{
     font-family: monospace;
+    color:rgb(57, 167, 130) ;
 }
 
 #description{
     font-family: Gill Sans;
     font-size: 110%
+}
+
+body{
+    background-color: #121212;
 }
