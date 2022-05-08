@@ -19,12 +19,14 @@
     width: 280px;
 }
 
-#principal-habilities{
-    color: antiquewhite;
+.indicecolor{
+    color: rgb(47, 214, 47);
+    font-size: 18px;
 }
 
-#indicecolor{
-    color: rgb(47, 214, 47);
+.habilities-topics{
+    color: rgb(57, 167, 130);
+    font-size: 20px;
 }
 
 body{
