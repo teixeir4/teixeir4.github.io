@@ -8,6 +8,25 @@
     font-size: 110%
 }
 
+#mydescription{
+    color:rgb(57, 167, 130) ;
+    font-size: 18px;
+    font
+}
+
+#profilepicture{
+    border-radius: 200px;
+    width: 280px;
+}
+
+#principal-habilities{
+    color: antiquewhite;
+}
+
+#indicecolor{
+    color: rgb(47, 214, 47);
+}
+
 body{
     background-color: #121212;
 }
