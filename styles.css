@@ -1,22 +1,31 @@
-.fullname{
-    font-family: monospace;
-    color:rgb(57, 167, 130) ;
+body {
+    padding: 3%;
 }
 
-#description{
-    font-family: Gill Sans;
-    font-size: 110%
+.fullname{
+    font-family: monospace;
+    color:#5acfa8;
+    text-align: center;
+    font-size: 30px;
 }
 
 #mydescription{
-    color:rgb(57, 167, 130) ;
+    color:#5acfa8 ;
     font-size: 18px;
-    font
+    top: 20px;
+    left: 53%;
+    position: absolute;
+    max-width: 270px;
 }
 
 #profilepicture{
-    border-radius: 200px;
-    width: 280px;
+    border-radius: 100px;
+    width: 260px;
+    padding: 5px;
+    margin-top: 10px;
+    position: relative;
+    left: 600px;
+    background-color: #39a782;
 }
 
 .indicecolor{
@@ -33,10 +42,49 @@
     color: #cdc8cf;
 }
 
-.socialmedias{
-    font-size: 18px;
+.linkedin {
+    position: absolute;
+    top: 49%;
+    left: 55%;
 }
 
-body{
+.github {
+    position: absolute;
+    top: 48%;
+    left: 58%;
+    padding: 15px;
+}
+
+body {
     background-color: #121212;
+}
+
+.image-container {
+    height: 290px;
+    position: relative;
+}
+
+#resilience:hover {
+    background-color: #39a782;
+}
+
+#colaboration:hover {
+    background-color: #39a782;
+}
+
+#unix:hover {
+    background-color: #39a782;
+}
+
+#shell:hover {
+    background-color: #39a782;
+}
+
+#other-habilities:hover {
+    background-color: #39a782;
+}
+
+.background-design {
+    background-color: #21352d;
+    padding: 20px;
 }
